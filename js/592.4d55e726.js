@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[592],{74592:function(n,u,e){e.r(u),e.d(u,{default:function(){return a}});var t=e(66252);const r={};var a=(0,e(83744).Z)(r,[["render",function(n,u){return(0,t.wg)(),(0,t.iD)("div",null," 个人中心 ")}]])}}]);
